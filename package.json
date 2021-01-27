@@ -1,0 +1,11 @@
+{
+  "name": "epack-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^4.5.1",
+    "webpack": "4",
+    "webpack-cli": "3"
+  }
+}
